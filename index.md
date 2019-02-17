@@ -6,6 +6,8 @@
 
 [Assessment 2 Documents](./Assessment-2/assessment2.html)
 
+[Assessment 3 Documents](./Assessment-3/assessment3.html)
+
 # THE GAME
 
 ![Skull](http://bestanimations.com/Humans/SkullBones/skull-bones-animated-gif-1.gif) ![Skull](http://bestanimations.com/Humans/SkullBones/skull-bones-animated-gif-1.gif) ![Skull](http://bestanimations.com/Humans/SkullBones/skull-bones-animated-gif-1.gif)
