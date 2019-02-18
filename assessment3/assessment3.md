@@ -1,10 +1,11 @@
-+ [Game executable](127.0.0.1)
-+ [Test plan](127.0.0.1)
-+ [Testing results](127.0.0.1)
-+ [Change report](127.0.0.1)
-+ [Implementation report](127.0.0.1)
++ [Change report](Change3.pdf)
++ [Implementation report](Impl3.pdf)
++ [Game executable](ipatch3.jar)
++ [Test plan](Gantt.png)
++ [Testing results](Blackbox-assessment3.pdf)
 + [Code - github repository](https://www.github.com/theshutupman/apirategame)
-+ [User manual](127.0.0.1)
++ [User manual](Manual3.pdf)
+  + [User manual source](Manual3.docx)
 
 
 
