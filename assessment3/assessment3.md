@@ -6,7 +6,7 @@
 + [Code - github repository](https://www.github.com/theshutupman/apirategame)
 + [User manual](Manual3.pdf)
   + [User manual source](Manual3.docx)
-
++ [Updated requirements](Req3.pdf)
 
 
 [go back](../index.html)
