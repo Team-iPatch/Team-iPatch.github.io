@@ -6,7 +6,9 @@
 
 [Assessment 2 Documents](./Assessment-2/assessment2.html)
 
-[Assessment 3 Documents](./assessment3/assessment3.html)
+[Assessment 3 Documents](./Assessment-3/assessment3.html)
+
+[Assessment 4 Documents](./Assessment-4/assessment4.html)
 
 # THE GAME
 
