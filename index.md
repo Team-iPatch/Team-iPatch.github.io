@@ -1,5 +1,7 @@
 ![Logo](teamlogo.jpeg) Team iPatch PROUDLY PRESENTS Unnamed Pirate Game
 
+[The game!](./Assessment-4/PirateGame4.zip)
+
 [Assessment 4 Documents](./Assessment-4/assessment4.html)
 
 # THE GAME
